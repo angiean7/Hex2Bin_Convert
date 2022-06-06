@@ -1,0 +1,2 @@
+﻿  OutputLogFile.c
+c:\users\atom\desktop\anqi\convertapplication\outputlogfile\outputlogfile\outputlogfile.c(123): error C2857: 在源文件中没有找到用 /Ycpch.h 命令行选项指定的“#include”语句
